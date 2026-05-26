@@ -1,0 +1,12 @@
+.pageHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+.pageHeader h1 { font-size: 18px; font-weight: 600; }
+
+.compose { margin-bottom: 1.25rem; }
+.compose textarea { margin-bottom: 10px; min-height: 70px; }
+.composeRow { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.composeRow select { flex: 1; min-width: 110px; }

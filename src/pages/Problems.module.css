@@ -1,0 +1,6 @@
+.pageHeader { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.25rem; }
+.pageHeader h1 { font-size: 18px; font-weight: 600; }
+.form { margin-bottom: 1.25rem; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 1.25rem; }
+.solved { background: var(--green-light); color: var(--green-dark); }
+.open { background: var(--coral-light); color: #712B13; }

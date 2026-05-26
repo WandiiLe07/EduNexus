@@ -1,0 +1,5 @@
+.pageHeader { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.25rem; }
+.pageHeader h1 { font-size: 18px; font-weight: 600; }
+.form { margin-bottom: 1.25rem; }
+.yearRow { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 1.25rem; }
